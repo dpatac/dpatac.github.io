@@ -1,0 +1,61 @@
+/* This is a comment */
+/* Lets make the background aqua */
+/* We will do this by applying a style to the body tag */
+
+body{
+    background-color: #EADCC1;
+    background-image:url("cat.jpg");
+    background-repeat: repeat-y;
+    color:#CC8033;
+    margin-left:260px; 
+}
+
+h1{
+    color:#CC3333;
+    font-family:serif;
+    font-size: 60px;
+    font-variant: small-caps;
+}
+
+h2{
+    color:#CC3380; 
+    font-family: "domestic manners";
+    font-size: 50px;
+}
+
+h3{
+    color:#9595E4;
+    font-family: progenisis;
+    font-size: 300%;
+}
+
+p{
+  font-family: junkyard;
+    font-size: 125%;
+}
+
+img{
+    
+    border:15px groove red;
+    margin-right: 10px;
+}
+
+ul{
+    list-style-type: square;
+    color:green;   
+}
+
+li{
+    color:blue;
+}
+
+a{
+    color:orange;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover{
+    color:green;
+    text-decoration: overline;
+}
